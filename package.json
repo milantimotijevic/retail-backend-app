@@ -1,0 +1,16 @@
+{
+  "name": "retail-backend-app",
+  "version": "1.0.0",
+  "description": "Backend service for retail application",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Milan Timotijevic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
